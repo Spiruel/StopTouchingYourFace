@@ -1,3 +1,5 @@
+**Pull requests welcome**
+
 # StopTouchingYourFace
 
 TensorflowJS model to play an alarm if you touch your face.
