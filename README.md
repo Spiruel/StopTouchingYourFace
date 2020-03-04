@@ -1,6 +1,6 @@
 **Pull requests welcome**
 
-(live demo found here)[https://spiruel.github.io/StopTouchingYourFace/]
+[live demo found here](https://spiruel.github.io/StopTouchingYourFace)
 
 # StopTouchingYourFace
 
