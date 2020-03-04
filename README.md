@@ -1,5 +1,7 @@
 **Pull requests welcome**
 
+(live demo found here)[https://spiruel.github.io/StopTouchingYourFace/]
+
 # StopTouchingYourFace
 
 TensorflowJS model to play an alarm if you touch your face.
